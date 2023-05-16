@@ -2,6 +2,8 @@ from typing import List
 from bs4 import BeautifulSoup, Tag
 from podgen import Episode, Media, Podcast
 import requests
+import pytz
+import datetime
 
 BASE_URL = "http://www.evan-doorbell.com/production"
 
@@ -35,7 +37,7 @@ def episode_from_tr(row: Tag) -> Episode:
     return ep
 
 def generate_episodes() -> List[Episode]:
-    episodes = []
+    episodes: List[Episode] = []
     playlist_table = get_playlist().find(id="table21")
 
     for row in playlist_table.find_all("tr")[1:]:
@@ -44,6 +46,11 @@ def generate_episodes() -> List[Episode]:
     # Set episode order
     for idx in range(len(episodes)):
         episodes[idx].position = idx + 1
+
+
+    publish = datetime.datetime.now(tz=pytz.utc)
+    for episode in episodes:
+        episode.publication_date = publish - datetime.timedelta(hours=episode.position)
 
     return episodes
 
