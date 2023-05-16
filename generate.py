@@ -21,7 +21,7 @@ def episode_from_tr(row: Tag) -> Episode:
     """Parse out the title and mp3 columns (0, 2) to create an episode"""
     tds = row.find_all("td")
 
-    title = tds[0].text.replace("\t", "").replace("\n", "")
+    title = tds[0].text.replace("\t", "").replace("\n", "").strip()
     file_name = tds[2].find("a")['href'] # filename.mp3
     url = f"{BASE_URL}/{file_name}"
 
@@ -57,11 +57,12 @@ def generate_podcast() -> Podcast:
     podcast.description = 'Evan Doorbell\'s Phone Tapes are a well known "documentary" of how the phone system used to be like in the 1970s. Evan has recorded many hours of "phone tapes" of the old phone network.'
     podcast.website = "http://www.evan-doorbell.com"
     podcast.explicit = False
-    podcast.image = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bell_System_hires_1921_logo.PNG/440px-Bell_System_hires_1921_logo.PNG"
+    podcast.image = "https://github.com/tsujamin/evan-doorbell-podcast/blob/main/logo.png?raw=true&dummy=.png"
 
     for episode in episodes:
         podcast.add_episode(episode)
 
+    podcast.apply_episode_order()
     return podcast
 
 with open("rss.xml", "w") as f:

@@ -7,8 +7,8 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 16 May 2023 22:12:04 +0000</lastBuildDate>
-    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bell_System_hires_1921_logo.PNG/440px-Bell_System_hires_1921_logo.PNG"/>
+    <lastBuildDate>Tue, 16 May 2023 22:26:10 +0000</lastBuildDate>
+    <itunes:image href="https://github.com/tsujamin/evan-doorbell-podcast/blob/main/logo.png?raw=true&amp;dummy=.png"/>
     <item>
       <title>What Did the Old Telephone Network Sound Like? Overview of the Recordings (rough draft)</title>
       <guid isPermaLink="false">http://www.evan-doorbell.com/production/Overview-rough.mp3</guid>
@@ -70,7 +70,7 @@
       <itunes:order>10</itunes:order>
     </item>
     <item>
-      <title>How I Became a Phone Phreak pgm. 7: The Dark Side of "Party Lines," November 1970  </title>
+      <title>How I Became a Phone Phreak pgm. 7: The Dark Side of "Party Lines," November 1970</title>
       <guid isPermaLink="false">http://www.evan-doorbell.com/production/HowBPhreak07-rough.mp3</guid>
       <enclosure url="http://www.evan-doorbell.com/production/HowBPhreak07-rough.mp3" length="56398304" type="audio/mpeg"/>
       <itunes:order>11</itunes:order>
@@ -82,7 +82,7 @@
       <itunes:order>12</itunes:order>
     </item>
     <item>
-      <title> How I Became a Phone Phreak pgm. 9 (Nov-Dec 1970)</title>
+      <title>How I Became a Phone Phreak pgm. 9 (Nov-Dec 1970)</title>
       <guid isPermaLink="false">http://www.evan-doorbell.com/production/HowBPhreak09.mp3</guid>
       <enclosure url="http://www.evan-doorbell.com/production/HowBPhreak09.mp3" length="36946054" type="audio/mpeg"/>
       <itunes:order>13</itunes:order>
@@ -172,19 +172,19 @@
       <itunes:order>27</itunes:order>
     </item>
     <item>
-      <title> What Was 4-5-0? Getting Into the Test Lines &amp; Mechanical Tones of the NY Area, 1971-77 (Part 1 of 3)</title>
+      <title>What Was 4-5-0? Getting Into the Test Lines &amp; Mechanical Tones of the NY Area, 1971-77 (Part 1 of 3)</title>
       <guid isPermaLink="false">http://www.evan-doorbell.com/production/WhatWas450p1of3.mp3</guid>
       <enclosure url="http://www.evan-doorbell.com/production/WhatWas450p1of3.mp3" length="20557044" type="audio/mpeg"/>
       <itunes:order>28</itunes:order>
     </item>
     <item>
-      <title> What Was 4-5-0? Getting Into the Test Lines &amp; Mechanical Tones of the NY Area, 1971-77 (Part 2 of 3)</title>
+      <title>What Was 4-5-0? Getting Into the Test Lines &amp; Mechanical Tones of the NY Area, 1971-77 (Part 2 of 3)</title>
       <guid isPermaLink="false">http://www.evan-doorbell.com/production/WhatWas450p2of3.mp3</guid>
       <enclosure url="http://www.evan-doorbell.com/production/WhatWas450p2of3.mp3" length="19778386" type="audio/mpeg"/>
       <itunes:order>29</itunes:order>
     </item>
     <item>
-      <title> What Was 4-5-0? Getting Into the Test Lines &amp; Mechanical Tones of the NY Area, 1971-77 (Part 3 of 3)</title>
+      <title>What Was 4-5-0? Getting Into the Test Lines &amp; Mechanical Tones of the NY Area, 1971-77 (Part 3 of 3)</title>
       <guid isPermaLink="false">http://www.evan-doorbell.com/production/WhatWas450p3of3.mp3</guid>
       <enclosure url="http://www.evan-doorbell.com/production/WhatWas450p3of3.mp3" length="19263043" type="audio/mpeg"/>
       <itunes:order>30</itunes:order>
@@ -364,7 +364,7 @@
       <itunes:order>59</itunes:order>
     </item>
     <item>
-      <title> Early80's Pgm. 8: The 526 Conference Begins, May 1981</title>
+      <title>Early80's Pgm. 8: The 526 Conference Begins, May 1981</title>
       <guid isPermaLink="false">http://www.evan-doorbell.com/production/Early80s08-526Conf.mp3</guid>
       <enclosure url="http://www.evan-doorbell.com/production/Early80s08-526Conf.mp3" length="41429514" type="audio/mpeg"/>
       <itunes:order>60</itunes:order>
