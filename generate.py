@@ -65,6 +65,8 @@ def generate_podcast() -> Podcast:
     podcast.website = "http://www.evan-doorbell.com"
     podcast.explicit = False
     podcast.image = "https://github.com/tsujamin/evan-doorbell-podcast/blob/main/logo-3.png?raw=true&dummy=.png"
+    podcast.withhold_from_itunes = True
+    podcast.complete = True
 
     for episode in episodes:
         podcast.add_episode(episode)
