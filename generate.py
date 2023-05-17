@@ -60,11 +60,11 @@ def generate_podcast() -> Podcast:
 
     podcast = Podcast()
 
-    podcast.name = "Evan Doorbell's Phone Tapes"
+    podcast.name = "Evan Doorbell's Phone Tapes (Group 1)"
     podcast.description = 'Evan Doorbell\'s Phone Tapes are a well known "documentary" of how the phone system used to be like in the 1970s. Evan has recorded many hours of "phone tapes" of the old phone network.'
     podcast.website = "http://www.evan-doorbell.com"
     podcast.explicit = False
-    podcast.image = "https://github.com/tsujamin/evan-doorbell-podcast/blob/main/logo.png?raw=true&dummy=.png"
+    podcast.image = "https://github.com/tsujamin/evan-doorbell-podcast/blob/main/logo-3.png?raw=true&dummy=.png"
 
     for episode in episodes:
         podcast.add_episode(episode)
@@ -72,7 +72,7 @@ def generate_podcast() -> Podcast:
     podcast.apply_episode_order()
     return podcast
 
-with open("rss.xml", "w") as f:
+with open("podcast.xml", "w") as f:
     podcast = generate_podcast()
 
     f.write(podcast.rss_str())
