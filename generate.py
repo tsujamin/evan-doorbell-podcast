@@ -44,13 +44,13 @@ def generate_episodes() -> List[Episode]:
         episodes.append(episode_from_tr(row))
 
     # Set episode order
-    for idx in range(len(episodes)):
-        episodes[idx].position = idx + 1
-
-
+    ep_count = len(episodes)
     publish = datetime.datetime.now(tz=pytz.utc)
-    for episode in episodes:
-        episode.publication_date = publish - datetime.timedelta(hours=episode.position)
+
+    for idx in range(ep_count):
+        # episodes[idx].position = idx + 1
+        episodes[idx].title = F"#{idx+1}: " + episodes[idx].title
+        episodes[idx].publication_date = publish - datetime.timedelta(hours=ep_count - idx)
 
     return episodes
 
