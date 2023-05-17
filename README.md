@@ -10,3 +10,6 @@ The easiest way to subscribe is to copy the RSS feed link, [https://raw.githubus
 show to follow.
 
 Episodes should be listened to oldest to newest, which is the same order as the episode numbers in the titles.
+
+The episodes are primarily pulled from an [Archive.org mirror](https://archive.org/details/evan-doorbell) in order to
+minimise bandwidth to [evan-doorbell.com](evan-doorbell.com) except where an episode is missing from the former mirror.

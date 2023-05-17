@@ -6,6 +6,7 @@ import pytz
 import datetime
 
 BASE_URL = "http://www.evan-doorbell.com/production"
+ARCHIVE_ORG_MIRROR = "https://archive.org/download/evan-doorbell"
 
 def get_playlist() -> BeautifulSoup:
     """
@@ -25,10 +26,15 @@ def episode_from_tr(row: Tag) -> Episode:
 
     title = tds[0].text.replace("\t", "").replace("\n", "").strip()
     file_name = tds[2].find("a")['href'] # filename.mp3
-    url = f"{BASE_URL}/{file_name}"
 
     print(f"building episode \"{title}\"")
-    media = Media.create_from_server_response(url)
+    try:
+        url = f"{ARCHIVE_ORG_MIRROR}/{file_name}"
+        media = Media.create_from_server_response(url)
+    except:
+        print("retrying from evan-doorbell.com")
+        url = f"{BASE_URL}/{file_name}"
+        media = Media.create_from_server_response(url)
 
     ep = Episode()
     ep.title = title
