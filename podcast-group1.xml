@@ -7,578 +7,578 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 16:39:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 00:20:48 +0000</lastBuildDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://github.com/tsujamin/evan-doorbell-podcast/blob/main/logo-3.png?raw=true&amp;dummy=.png"/>
-    <item>
-      <title>What Did the Old Telephone Network Sound Like? Overview of the Recordings (rough draft)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Overview-rough.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Overview-rough.mp3" length="57503380" type="audio/mpeg"/>
-      <itunes:order>1</itunes:order>
-    </item>
-    <item>
-      <title>How Evan Doorbell became a Phone Phreak, part 1</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak01.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak01.mp3" length="24549384" type="audio/mpeg"/>
-      <itunes:order>2</itunes:order>
-    </item>
-    <item>
-      <title>How Evan Doorbell became a Phone Phreak, part 2</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak02.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak02.mp3" length="25922798" type="audio/mpeg"/>
-      <itunes:order>3</itunes:order>
-    </item>
-    <item>
-      <title>Network Sounds of the 70’s, part 1 (1971-1981)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/NetSounds1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/NetSounds1.mp3" length="34105599" type="audio/mpeg"/>
-      <itunes:order>4</itunes:order>
-    </item>
-    <item>
-      <title>How Evan Doorbell became a Phone Phreak, part 3: Atlanta in Sept., 1970</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak03.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak03.mp3" length="19209956" type="audio/mpeg"/>
-      <itunes:order>5</itunes:order>
-    </item>
-    <item>
-      <title>How Evan Doorbell became a Phone Phreak, part 4</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak04.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak04.mp3" length="29213391" type="audio/mpeg"/>
-      <itunes:order>6</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 4: An Assortments of Calls via Hempstead Tandem 3 (June 1976) (Standalone Edition)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD04standalone.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD04standalone.mp3" length="29593320" type="audio/mpeg"/>
-      <itunes:order>7</itunes:order>
-    </item>
-    <item>
-      <title>How Evan Doorbell became a Phone Phreak, part 5</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak05.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak05.mp3" length="31409348" type="audio/mpeg"/>
-      <itunes:order>8</itunes:order>
-    </item>
-    <item>
-      <title>How Evan Doorbell became a Phone Phreak, part 6</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak06.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak06.mp3" length="33551807" type="audio/mpeg"/>
-      <itunes:order>9</itunes:order>
-    </item>
-    <item>
-      <title>Please Hang Up – Permanent Signal Recordings (1971-1983)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/PSRecs.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/PSRecs.mp3" length="30399129" type="audio/mpeg"/>
-      <itunes:order>10</itunes:order>
-    </item>
-    <item>
-      <title>How I Became a Phone Phreak pgm. 7: The Dark Side of “Party Lines,” November 1970</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak07-rough.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak07-rough.mp3" length="56398304" type="audio/mpeg"/>
-      <itunes:order>11</itunes:order>
-    </item>
-    <item>
-      <title>How I Became a Phone Phreak pgm.8: Kennedy Airport Phone Trip, December 1970</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak08.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak08.mp3" length="35018426" type="audio/mpeg"/>
-      <itunes:order>12</itunes:order>
-    </item>
-    <item>
-      <title>How I Became a Phone Phreak pgm. 9 (Nov-Dec 1970)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak09.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak09.mp3" length="36946054" type="audio/mpeg"/>
-      <itunes:order>13</itunes:order>
-    </item>
-    <item>
-      <title>How I Became a Phone Phreak pgm. 10, December 1970</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak10.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak10.mp3" length="59254625" type="audio/mpeg"/>
-      <itunes:order>14</itunes:order>
-    </item>
-    <item>
-      <title>How I Became a Phone Phreak pgm. 11, December 1970</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak11.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak11.mp3" length="83761587" type="audio/mpeg"/>
-      <itunes:order>15</itunes:order>
-    </item>
-    <item>
-      <title>So. California Phone Trips part 1: Van Nuys #5 Crossbar (Summer, 1974)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SoCal1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SoCal1.mp3" length="36955237" type="audio/mpeg"/>
-      <itunes:order>16</itunes:order>
-    </item>
-    <item>
-      <title>So. California Phone Trips part 2: Misc. Van Nuys Phun Stuff (Summer, 1974)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SoCal2.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SoCal2.mp3" length="32693307" type="audio/mpeg"/>
-      <itunes:order>17</itunes:order>
-    </item>
-    <item>
-      <title>So. California Phone Trips part 3: GTE Step in Indio (Summer, 1974)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SoCal3-Indio.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SoCal3-Indio.mp3" length="6757698" type="audio/mpeg"/>
-      <itunes:order>18</itunes:order>
-    </item>
-    <item>
-      <title>Network Sounds of the 70’s, part 2 (1976-1981)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/NetSounds2.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/NetSounds2.mp3" length="40812590" type="audio/mpeg"/>
-      <itunes:order>19</itunes:order>
-    </item>
-    <item>
-      <title>NEptune 4 #1 Crossbar in Belle Harbor, Queens: Local Routings, part 1 (May, 1974)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/RoutNE4p1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/RoutNE4p1.mp3" length="39421202" type="audio/mpeg"/>
-      <itunes:order>20</itunes:order>
-    </item>
-    <item>
-      <title>471 Conference in Far Rockaway, NY (1974)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/471conf.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/471conf.mp3" length="18776104" type="audio/mpeg"/>
-      <itunes:order>21</itunes:order>
-    </item>
-    <item>
-      <title>The “Voomph” Tape (Ben &amp; Evan’s satire) (1974)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Voomph.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Voomph.mp3" length="5592834" type="audio/mpeg"/>
-      <itunes:order>22</itunes:order>
-    </item>
-    <item>
-      <title>Bell System #1 Step in downtown Raleigh NC, part 1 (Sept., 1979)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/RalSxS1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/RalSxS1.mp3" length="18447170" type="audio/mpeg"/>
-      <itunes:order>23</itunes:order>
-    </item>
-    <item>
-      <title>Bell System #1 Step in downtown Raleigh NC, part 2 (Sept., 1979)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/RalSxS2.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/RalSxS2.mp3" length="19184450" type="audio/mpeg"/>
-      <itunes:order>24</itunes:order>
-    </item>
-    <item>
-      <title>Bell System #1 Step in downtown Raleigh NC, part 3 (Sept., 1979)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/RalSxS3.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/RalSxS3.mp3" length="19708989" type="audio/mpeg"/>
-      <itunes:order>25</itunes:order>
-    </item>
-    <item>
-      <title>Bell System #1 Step in downtown Raleigh NC, part 4 (Sept., 1979)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/RalSxS4.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/RalSxS4.mp3" length="20488065" type="audio/mpeg"/>
-      <itunes:order>26</itunes:order>
-    </item>
-    <item>
-      <title>Two Early Voice Recognition Systems (1972-74, 1980)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/VR.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/VR.mp3" length="23657022" type="audio/mpeg"/>
-      <itunes:order>27</itunes:order>
-    </item>
-    <item>
-      <title>What Was 4-5-0? Getting Into the Test Lines &amp; Mechanical Tones of the NY Area, 1971-77 (Part 1 of 3)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/WhatWas450p1of3.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/WhatWas450p1of3.mp3" length="20557044" type="audio/mpeg"/>
-      <itunes:order>28</itunes:order>
-    </item>
-    <item>
-      <title>What Was 4-5-0? Getting Into the Test Lines &amp; Mechanical Tones of the NY Area, 1971-77 (Part 2 of 3)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/WhatWas450p2of3.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/WhatWas450p2of3.mp3" length="19778386" type="audio/mpeg"/>
-      <itunes:order>29</itunes:order>
-    </item>
-    <item>
-      <title>What Was 4-5-0? Getting Into the Test Lines &amp; Mechanical Tones of the NY Area, 1971-77 (Part 3 of 3)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/WhatWas450p3of3.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/WhatWas450p3of3.mp3" length="19263043" type="audio/mpeg"/>
-      <itunes:order>30</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, Introduction</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD00.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD00.mp3" length="18380291" type="audio/mpeg"/>
-      <itunes:order>31</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 1: Calls to Centralized Intercept (February 1977, June 1976)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD01.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD01.mp3" length="29546906" type="audio/mpeg"/>
-      <itunes:order>32</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 2: The Hempstead-White Plains Route (June 1976)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD02.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD02.mp3" length="34694910" type="audio/mpeg"/>
-      <itunes:order>33</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 3:Anecdotes, Centralized Intercept, #5 Crossbar (February 1977, June 1976)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD03.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD03.mp3" length="35338567" type="audio/mpeg"/>
-      <itunes:order>34</itunes:order>
-    </item>
-    <item>
-      <title>Phreaks and Folks on Hempstead NY Vacant Code Conference, part 1 (June, 1971)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/5166L1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/5166L1.mp3" length="26071162" type="audio/mpeg"/>
-      <itunes:order>35</itunes:order>
-    </item>
-    <item>
-      <title>Phreaks and Folks on Hempstead NY Vacant Code Conference, part 2 (June, 1971)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/5166L2.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/5166L2.mp3" length="18577572" type="audio/mpeg"/>
-      <itunes:order>36</itunes:order>
-    </item>
-    <item>
-      <title>Phreaks and Folks on Hempstead NY Vacant Code Conference, part 3 (December, 1971)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/5166L3.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/5166L3.mp3" length="21491165" type="audio/mpeg"/>
-      <itunes:order>37</itunes:order>
-    </item>
-    <item>
-      <title>GEdney 9 Panel in Brooklyn NY, part 1 (November, 1977)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/GE9_1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/GE9_1.mp3" length="19028965" type="audio/mpeg"/>
-      <itunes:order>38</itunes:order>
-    </item>
-    <item>
-      <title>GEdney 9 Panel in Brooklyn NY, part 2 (November, 1977)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/GE9_2.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/GE9_2.mp3" length="19996123" type="audio/mpeg"/>
-      <itunes:order>39</itunes:order>
-    </item>
-    <item>
-      <title>GEdney 9 Panel in Brooklyn NY, part 3 (November, 1977)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/GE9_3.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/GE9_3.mp3" length="24570686" type="audio/mpeg"/>
-      <itunes:order>40</itunes:order>
-    </item>
-    <item>
-      <title>East Lake Audichron Conference in Decatur GA, part 1 (February, 1978)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/EastLakeConf1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/EastLakeConf1.mp3" length="24780936" type="audio/mpeg"/>
-      <itunes:order>41</itunes:order>
-    </item>
-    <item>
-      <title>NX-1 Crossbar in Greenville NC, part 1 (June, 1974)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/GreenvilleNC1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/GreenvilleNC1.mp3" length="23910327" type="audio/mpeg"/>
-      <itunes:order>42</itunes:order>
-    </item>
-    <item>
-      <title>NX-1 Crossbar in Greenville NC, part 2 (June, 1974) (Extended Version)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/GreenvilleNC2long.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/GreenvilleNC2long.mp3" length="16972630" type="audio/mpeg"/>
-      <itunes:order>43</itunes:order>
-    </item>
     <item>
       <title>NX-1 Crossbar in Greenville NC, part 3 (June, 1974)</title>
       <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/GreenvilleNC3.mp3</guid>
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/GreenvilleNC3.mp3" length="12654268" type="audio/mpeg"/>
-      <itunes:order>44</itunes:order>
-    </item>
-    <item>
-      <title>Dialing Those Mysterious “1xx” and “0xx” Codes (1974-1980)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/1xx0xx.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/1xx0xx.mp3" length="40487828" type="audio/mpeg"/>
-      <itunes:order>45</itunes:order>
-    </item>
-    <item>
-      <title>Dialing the “1xx” Codes from Greenville NC Coin Phones, part 1 (1978,1980)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Greenville1xxp1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Greenville1xxp1.mp3" length="21522948" type="audio/mpeg"/>
-      <itunes:order>46</itunes:order>
-    </item>
-    <item>
-      <title>Dialing the “1xx” Codes from Greenville NC Coin Phones, part 2 (1978,1980)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Greenville1xxp2.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Greenville1xxp2.mp3" length="34091399" type="audio/mpeg"/>
-      <itunes:order>47</itunes:order>
-    </item>
-    <item>
-      <title>A HiFi 914 Routings tape, part 1 (December, 1975)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HiFi914p1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HiFi914p1.mp3" length="32840017" type="audio/mpeg"/>
-      <itunes:order>48</itunes:order>
-    </item>
-    <item>
-      <title>A HiFi 914 Routings tape, part 2 (1975)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HiFi914p2.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HiFi914p2.mp3" length="34442054" type="audio/mpeg"/>
-      <itunes:order>49</itunes:order>
-    </item>
-    <item>
-      <title>Supplemental Sounds of Step, part 1 (1974,’77,’80)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SupplStep1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SupplStep1.mp3" length="23631124" type="audio/mpeg"/>
-      <itunes:order>50</itunes:order>
-    </item>
-    <item>
-      <title>Supplemental Sounds of Step, part 2, Atlanta’s TRinity office (1979)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SupplStep2.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SupplStep2.mp3" length="29240554" type="audio/mpeg"/>
-      <itunes:order>51</itunes:order>
-    </item>
-    <item>
-      <title>Supplemental Sounds of Step, part 3, Atlanta’s TRinity office (1979)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SupplStep3.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SupplStep3.mp3" length="35306814" type="audio/mpeg"/>
-      <itunes:order>52</itunes:order>
-    </item>
-    <item>
-      <title>Bell #355 Step in Kent CT (August 1980)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/KentCT.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/KentCT.mp3" length="45616187" type="audio/mpeg"/>
-      <itunes:order>53</itunes:order>
-    </item>
-    <item>
-      <title>Classic Tandem Stacking (January, 1975)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/classtack1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/classtack1.mp3" length="25549139" type="audio/mpeg"/>
-      <itunes:order>54</itunes:order>
-    </item>
-    <item>
-      <title>Early 80s pgm. 11: Troubles in Rome GA (July 1981)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Early80s11-Rome.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Early80s11-Rome.mp3" length="48258543" type="audio/mpeg"/>
-      <itunes:order>55</itunes:order>
+      <itunes:order>717</itunes:order>
     </item>
     <item>
       <title>Phreaks from Esquire article on “052” conference, part 1 (January, 1972)</title>
       <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/052p1.mp3</guid>
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/052p1.mp3" length="16517031" type="audio/mpeg"/>
-      <itunes:order>56</itunes:order>
+      <itunes:order>718</itunes:order>
     </item>
     <item>
       <title>Phreaks from Esquire article on “052” conference, part 2 (January, 1972)</title>
       <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/052p2.mp3</guid>
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/052p2.mp3" length="17128923" type="audio/mpeg"/>
-      <itunes:order>57</itunes:order>
+      <itunes:order>720</itunes:order>
     </item>
     <item>
-      <title>Phone Trips Song</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/PhoneTripsSong.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/PhoneTripsSong.mp3" length="5910081" type="audio/mpeg"/>
-      <itunes:order>58</itunes:order>
-    </item>
-    <item>
-      <title>Bruce from Yonkers’s story of The 790 Conference (warning: contains graphic material) (1976)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/790_Story.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/790_Story.mp3" length="35802929" type="audio/mpeg"/>
-      <itunes:order>59</itunes:order>
-    </item>
-    <item>
-      <title>Early80’s Pgm. 8: The 526 Conference Begins, May 1981</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Early80s08-526Conf.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Early80s08-526Conf.mp3" length="41429514" type="audio/mpeg"/>
-      <itunes:order>60</itunes:order>
-    </item>
-    <item>
-      <title>Early 80s Pgm. 9: The 526 Conference Ends, May 1981</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Early80s09-526Conf.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Early80s09-526Conf.mp3" length="52165631" type="audio/mpeg"/>
-      <itunes:order>61</itunes:order>
-    </item>
-    <item>
-      <title>Early 80s Phreaking pgm. 3: George, The Interactive Answering Machine</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Early80s03-George.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Early80s03-George.mp3" length="34031634" type="audio/mpeg"/>
-      <itunes:order>62</itunes:order>
-    </item>
-    <item>
-      <title>Local Coin Control in the 1970s (1975-1978, 2001)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/CoinControl.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/CoinControl.mp3" length="43140207" type="audio/mpeg"/>
-      <itunes:order>63</itunes:order>
-    </item>
-    <item>
-      <title>Ring and Busy Tones in North America, a 1970s Narration, 1971-73</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/RingBusy01.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/RingBusy01.mp3" length="9868564" type="audio/mpeg"/>
-      <itunes:order>64</itunes:order>
-    </item>
-    <item>
-      <title>Step in Gap, PA (August 1976)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/GapPA.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/GapPA.mp3" length="30236959" type="audio/mpeg"/>
-      <itunes:order>65</itunes:order>
-    </item>
-    <item>
-      <title>Telephone Sounds in Great Britain – Part 1(Narrated by Andrew Emerson) (Hum Removed) (Nov 1971)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/emmerson1-hm.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/emmerson1-hm.mp3" length="24699850" type="audio/mpeg"/>
-      <itunes:order>66</itunes:order>
-    </item>
-    <item>
-      <title>Telephone Sounds in Great Britain – Part 2 (Narrated by Andrew Emerson) (hum removed &amp; EQ corrected) (Nov 1971)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/emmerson2-hm+eq.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/emmerson2-hm+eq.mp3" length="29109743" type="audio/mpeg"/>
-      <itunes:order>67</itunes:order>
-    </item>
-    <item>
-      <title>Group Bell’s Salute to Operators (1974/1978)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Salute_To_Operators.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Salute_To_Operators.mp3" length="10690708" type="audio/mpeg"/>
-      <itunes:order>68</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 5: Centralized Intercept Calls via New York 7 (February 1977)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD05.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD05.mp3" length="27481352" type="audio/mpeg"/>
-      <itunes:order>69</itunes:order>
-    </item>
-    <item>
-      <title>ZZZZZZ Part 1 (1971-1974)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Zp1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Zp1.mp3" length="20493490" type="audio/mpeg"/>
-      <itunes:order>70</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 6: Calls to NY State’s 315 NPA (Summer 1977)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD06.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD06.mp3" length="34758021" type="audio/mpeg"/>
-      <itunes:order>71</itunes:order>
-    </item>
-    <item>
-      <title>ZZZZZZ Part 2 (1971-1974)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Zp2.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Zp2.mp3" length="23194343" type="audio/mpeg"/>
-      <itunes:order>72</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 7: More calls to NY State’s 315 NPA (Summer 1977)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD07.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD07.mp3" length="27642266" type="audio/mpeg"/>
-      <itunes:order>73</itunes:order>
-    </item>
-    <item>
-      <title>Inside Jokes: Les’ Incoming Messages (1978-1982)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Hello.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Hello.mp3" length="21518748" type="audio/mpeg"/>
-      <itunes:order>74</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 8: DDD from Panel, 4M Dialpulsing (1977)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD08.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD08.mp3" length="34094315" type="audio/mpeg"/>
-      <itunes:order>75</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 9: DDD from #1 Crossbar, ANI Failures, NX1 Sounds (1974-1977)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD09.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD09.mp3" length="30860552" type="audio/mpeg"/>
-      <itunes:order>76</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 10: Calls to — and through — NX1’s (1974-1976)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD10.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD10.mp3" length="30879778" type="audio/mpeg"/>
-      <itunes:order>77</itunes:order>
-    </item>
-    <item>
-      <title>Ben’s Early Tapes From a Belle Harbor #1 Crossbar Line: Tape 8 (December 1973)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/BensTape08.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/BensTape08.mp3" length="33456927" type="audio/mpeg"/>
-      <itunes:order>78</itunes:order>
-    </item>
-    <item>
-      <title>Ben’s Early Tapes 9-21 from Belle Harbor #1 Crossbar, pgm. A (Winter 1973-74)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/BensTape09-A.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/BensTape09-A.mp3" length="34638083" type="audio/mpeg"/>
-      <itunes:order>79</itunes:order>
-    </item>
-    <item>
-      <title>ZZZZZZ Part 3 (1974-1976)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Zp3.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Zp3.mp3" length="8386049" type="audio/mpeg"/>
-      <itunes:order>80</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 11: Centralized Intercept, NX1 Test Board, NX1 Tandem calls (1974-1976)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD11.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD11.mp3" length="27216784" type="audio/mpeg"/>
-      <itunes:order>81</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 12: More NX1’s, Receiving a Stacked Call, Hempstead-White Plains Route (1974-1977)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD12.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD12.mp3" length="33432673" type="audio/mpeg"/>
-      <itunes:order>82</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 13: DDD Demo Recordings (1971-1975), SP1 Tandems (1976)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD13.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD13.mp3" length="19634586" type="audio/mpeg"/>
-      <itunes:order>83</itunes:order>
-    </item>
-    <item>
-      <title>Ben’s Early Tapes 9-21 from Belle Harbor #1 Crossbar, pgm. B (Winter 1973-74)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/BensTape09-B.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/BensTape09-B.mp3" length="27815735" type="audio/mpeg"/>
-      <itunes:order>84</itunes:order>
-    </item>
-    <item>
-      <title>The Sounds of Long Distance, pgm. 14: SP1’s, SFing Augusta Step Tandem (1976-77)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD14.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD14.mp3" length="34335465" type="audio/mpeg"/>
-      <itunes:order>85</itunes:order>
-    </item>
-    <item>
-      <title>Intro program to the “Exploring the Life Insurance Tie-lines” series, Fall 1976</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LifeInsurTielines0.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LifeInsurTielines0.mp3" length="16127101" type="audio/mpeg"/>
-      <itunes:order>86</itunes:order>
-    </item>
-    <item>
-      <title>Exploring the Life Insurance Tie-lines, pgm 1 PARTIAL, Fall 1976 (ends abruptly)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LifeInsurTielines1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LifeInsurTielines1.mp3" length="24961220" type="audio/mpeg"/>
-      <itunes:order>87</itunes:order>
+      <title>Dialing Those Mysterious “1xx” and “0xx” Codes (1974-1980)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/1xx0xx.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/1xx0xx.mp3" length="40487828" type="audio/mpeg"/>
+      <itunes:order>723</itunes:order>
     </item>
     <item>
       <title>“311” and Other Spontaneous Conferences (1971-86)</title>
       <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/311etc.mp3</guid>
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/311etc.mp3" length="35303880" type="audio/mpeg"/>
-      <itunes:order>88</itunes:order>
+      <itunes:order>725</itunes:order>
     </item>
     <item>
-      <title>Conversation with Tom Duffy (1972)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/TJD72-04.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/TJD72-04.mp3" length="14828900" type="audio/mpeg"/>
-      <itunes:order>89</itunes:order>
+      <title>471 Conference in Far Rockaway, NY (1974)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/471conf.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/471conf.mp3" length="18776104" type="audio/mpeg"/>
+      <itunes:order>727</itunes:order>
+    </item>
+    <item>
+      <title>Phreaks and Folks on Hempstead NY Vacant Code Conference, part 1 (June, 1971)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/5166L1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/5166L1.mp3" length="26071162" type="audio/mpeg"/>
+      <itunes:order>728</itunes:order>
+    </item>
+    <item>
+      <title>Inside Jokes: Les’ Incoming Messages (1978-1982)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Hello.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Hello.mp3" length="21518748" type="audio/mpeg"/>
+      <itunes:order>729</itunes:order>
+    </item>
+    <item>
+      <title>Phreaks and Folks on Hempstead NY Vacant Code Conference, part 2 (June, 1971)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/5166L2.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/5166L2.mp3" length="18577572" type="audio/mpeg"/>
+      <itunes:order>730</itunes:order>
+    </item>
+    <item>
+      <title>A HiFi 914 Routings tape, part 1 (December, 1975)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HiFi914p1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HiFi914p1.mp3" length="32840017" type="audio/mpeg"/>
+      <itunes:order>731</itunes:order>
+    </item>
+    <item>
+      <title>Phreaks and Folks on Hempstead NY Vacant Code Conference, part 3 (December, 1971)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/5166L3.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/5166L3.mp3" length="21491165" type="audio/mpeg"/>
+      <itunes:order>733</itunes:order>
+    </item>
+    <item>
+      <title>Bruce from Yonkers’s story of The 790 Conference (warning: contains graphic material) (1976)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/790_Story.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/790_Story.mp3" length="35802929" type="audio/mpeg"/>
+      <itunes:order>735</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, Introduction</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD00.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD00.mp3" length="18380291" type="audio/mpeg"/>
+      <itunes:order>738</itunes:order>
+    </item>
+    <item>
+      <title>Early 80s Phreaking pgm. 3: George, The Interactive Answering Machine</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Early80s03-George.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Early80s03-George.mp3" length="34031634" type="audio/mpeg"/>
+      <itunes:order>744</itunes:order>
+    </item>
+    <item>
+      <title>Ben’s Early Tapes From a Belle Harbor #1 Crossbar Line: Tape 8 (December 1973)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/BensTape08.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/BensTape08.mp3" length="33456927" type="audio/mpeg"/>
+      <itunes:order>757</itunes:order>
+    </item>
+    <item>
+      <title>Ben’s Early Tapes 9-21 from Belle Harbor #1 Crossbar, pgm. B (Winter 1973-74)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/BensTape09-B.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/BensTape09-B.mp3" length="27815735" type="audio/mpeg"/>
+      <itunes:order>759</itunes:order>
+    </item>
+    <item>
+      <title>Ben’s Early Tapes 9-21 from Belle Harbor #1 Crossbar, pgm. A (Winter 1973-74)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/BensTape09-A.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/BensTape09-A.mp3" length="34638083" type="audio/mpeg"/>
+      <itunes:order>760</itunes:order>
+    </item>
+    <item>
+      <title>A HiFi 914 Routings tape, part 2 (1975)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HiFi914p2.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HiFi914p2.mp3" length="34442054" type="audio/mpeg"/>
+      <itunes:order>762</itunes:order>
+    </item>
+    <item>
+      <title>GEdney 9 Panel in Brooklyn NY, part 2 (November, 1977)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/GE9_2.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/GE9_2.mp3" length="19996123" type="audio/mpeg"/>
+      <itunes:order>767</itunes:order>
+    </item>
+    <item>
+      <title>GEdney 9 Panel in Brooklyn NY, part 3 (November, 1977)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/GE9_3.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/GE9_3.mp3" length="24570686" type="audio/mpeg"/>
+      <itunes:order>770</itunes:order>
+    </item>
+    <item>
+      <title>East Lake Audichron Conference in Decatur GA, part 1 (February, 1978)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/EastLakeConf1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/EastLakeConf1.mp3" length="24780936" type="audio/mpeg"/>
+      <itunes:order>776</itunes:order>
+    </item>
+    <item>
+      <title>Local Coin Control in the 1970s (1975-1978, 2001)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/CoinControl.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/CoinControl.mp3" length="43140207" type="audio/mpeg"/>
+      <itunes:order>779</itunes:order>
+    </item>
+    <item>
+      <title>Step in Gap, PA (August 1976)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/GapPA.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/GapPA.mp3" length="30236959" type="audio/mpeg"/>
+      <itunes:order>786</itunes:order>
+    </item>
+    <item>
+      <title>How Evan Doorbell became a Phone Phreak, part 1</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak01.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak01.mp3" length="24549384" type="audio/mpeg"/>
+      <itunes:order>796</itunes:order>
     </item>
     <item>
       <title>Dom Tuffy calls his office</title>
       <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Dom_Tuffy_1.mp3</guid>
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/Dom_Tuffy_1.mp3" length="6370666" type="audio/mpeg"/>
-      <itunes:order>90</itunes:order>
+      <itunes:order>802</itunes:order>
+    </item>
+    <item>
+      <title>Dialing the “1xx” Codes from Greenville NC Coin Phones, part 1 (1978,1980)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Greenville1xxp1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Greenville1xxp1.mp3" length="21522948" type="audio/mpeg"/>
+      <itunes:order>803</itunes:order>
     </item>
     <item>
       <title>Dom Tuffy calls Bell System prospects</title>
       <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Dom_Tuffy_2A.mp3</guid>
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/Dom_Tuffy_2A.mp3" length="4389541" type="audio/mpeg"/>
-      <itunes:order>91</itunes:order>
+      <itunes:order>804</itunes:order>
+    </item>
+    <item>
+      <title>Dialing the “1xx” Codes from Greenville NC Coin Phones, part 2 (1978,1980)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Greenville1xxp2.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Greenville1xxp2.mp3" length="34091399" type="audio/mpeg"/>
+      <itunes:order>805</itunes:order>
     </item>
     <item>
       <title>Dom Tuffy calls the DeFuniac Telephone Company</title>
       <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Dom_Tuffy_2B.mp3</guid>
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/Dom_Tuffy_2B.mp3" length="6907327" type="audio/mpeg"/>
-      <itunes:order>92</itunes:order>
+      <itunes:order>806</itunes:order>
     </item>
     <item>
       <title>Dom Tuffy busts Trace Street</title>
       <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Dom_Tuffy_3.mp3</guid>
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/Dom_Tuffy_3.mp3" length="6004115" type="audio/mpeg"/>
-      <itunes:order>93</itunes:order>
+      <itunes:order>807</itunes:order>
     </item>
     <item>
-      <title>The Sounds of Long Distance, pgm. 15: 4M &amp; XBT Audible Dialpulsing, Calling France, Forced Reroutes (1974-1982)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD15.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD15.mp3" length="37279151" type="audio/mpeg"/>
-      <itunes:order>94</itunes:order>
+      <title>How Evan Doorbell became a Phone Phreak, part 2</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak02.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak02.mp3" length="25922798" type="audio/mpeg"/>
+      <itunes:order>809</itunes:order>
+    </item>
+    <item>
+      <title>Early80’s Pgm. 8: The 526 Conference Begins, May 1981</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Early80s08-526Conf.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Early80s08-526Conf.mp3" length="41429514" type="audio/mpeg"/>
+      <itunes:order>811</itunes:order>
+    </item>
+    <item>
+      <title>Early 80s Pgm. 9: The 526 Conference Ends, May 1981</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Early80s09-526Conf.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Early80s09-526Conf.mp3" length="52165631" type="audio/mpeg"/>
+      <itunes:order>813</itunes:order>
+    </item>
+    <item>
+      <title>Early 80s pgm. 11: Troubles in Rome GA (July 1981)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Early80s11-Rome.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Early80s11-Rome.mp3" length="48258543" type="audio/mpeg"/>
+      <itunes:order>815</itunes:order>
+    </item>
+    <item>
+      <title>Bell #355 Step in Kent CT (August 1980)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/KentCT.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/KentCT.mp3" length="45616187" type="audio/mpeg"/>
+      <itunes:order>822</itunes:order>
+    </item>
+    <item>
+      <title>NX-1 Crossbar in Greenville NC, part 2 (June, 1974) (Extended Version)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/GreenvilleNC2long.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/GreenvilleNC2long.mp3" length="16972630" type="audio/mpeg"/>
+      <itunes:order>824</itunes:order>
+    </item>
+    <item>
+      <title>How Evan Doorbell became a Phone Phreak, part 3: Atlanta in Sept., 1970</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak03.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak03.mp3" length="19209956" type="audio/mpeg"/>
+      <itunes:order>825</itunes:order>
+    </item>
+    <item>
+      <title>How Evan Doorbell became a Phone Phreak, part 4</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak04.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak04.mp3" length="29213391" type="audio/mpeg"/>
+      <itunes:order>826</itunes:order>
+    </item>
+    <item>
+      <title>How Evan Doorbell became a Phone Phreak, part 5</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak05.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak05.mp3" length="31409348" type="audio/mpeg"/>
+      <itunes:order>827</itunes:order>
+    </item>
+    <item>
+      <title>How I Became a Phone Phreak pgm. 7: The Dark Side of “Party Lines,” November 1970</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak07-rough.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak07-rough.mp3" length="56398304" type="audio/mpeg"/>
+      <itunes:order>828</itunes:order>
+    </item>
+    <item>
+      <title>How Evan Doorbell became a Phone Phreak, part 6</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak06.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak06.mp3" length="33551807" type="audio/mpeg"/>
+      <itunes:order>829</itunes:order>
+    </item>
+    <item>
+      <title>How I Became a Phone Phreak pgm.8: Kennedy Airport Phone Trip, December 1970</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak08.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak08.mp3" length="35018426" type="audio/mpeg"/>
+      <itunes:order>830</itunes:order>
+    </item>
+    <item>
+      <title>How I Became a Phone Phreak pgm. 10, December 1970</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak10.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak10.mp3" length="59254625" type="audio/mpeg"/>
+      <itunes:order>831</itunes:order>
+    </item>
+    <item>
+      <title>How I Became a Phone Phreak pgm. 9 (Nov-Dec 1970)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak09.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak09.mp3" length="36946054" type="audio/mpeg"/>
+      <itunes:order>832</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 1: Calls to Centralized Intercept (February 1977, June 1976)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD01.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD01.mp3" length="29546906" type="audio/mpeg"/>
+      <itunes:order>837</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 3:Anecdotes, Centralized Intercept, #5 Crossbar (February 1977, June 1976)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD03.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD03.mp3" length="35338567" type="audio/mpeg"/>
+      <itunes:order>838</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 2: The Hempstead-White Plains Route (June 1976)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD02.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD02.mp3" length="34694910" type="audio/mpeg"/>
+      <itunes:order>839</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 5: Centralized Intercept Calls via New York 7 (February 1977)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD05.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD05.mp3" length="27481352" type="audio/mpeg"/>
+      <itunes:order>841</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 6: Calls to NY State’s 315 NPA (Summer 1977)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD06.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD06.mp3" length="34758021" type="audio/mpeg"/>
+      <itunes:order>842</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 7: More calls to NY State’s 315 NPA (Summer 1977)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD07.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD07.mp3" length="27642266" type="audio/mpeg"/>
+      <itunes:order>843</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 8: DDD from Panel, 4M Dialpulsing (1977)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD08.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD08.mp3" length="34094315" type="audio/mpeg"/>
+      <itunes:order>844</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 9: DDD from #1 Crossbar, ANI Failures, NX1 Sounds (1974-1977)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD09.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD09.mp3" length="30860552" type="audio/mpeg"/>
+      <itunes:order>845</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 10: Calls to — and through — NX1’s (1974-1976)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD10.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD10.mp3" length="30879778" type="audio/mpeg"/>
+      <itunes:order>846</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 12: More NX1’s, Receiving a Stacked Call, Hempstead-White Plains Route (1974-1977)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD12.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD12.mp3" length="33432673" type="audio/mpeg"/>
+      <itunes:order>847</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 11: Centralized Intercept, NX1 Test Board, NX1 Tandem calls (1974-1976)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD11.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD11.mp3" length="27216784" type="audio/mpeg"/>
+      <itunes:order>848</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 14: SP1’s, SFing Augusta Step Tandem (1976-77)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD14.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD14.mp3" length="34335465" type="audio/mpeg"/>
+      <itunes:order>849</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 13: DDD Demo Recordings (1971-1975), SP1 Tandems (1976)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD13.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD13.mp3" length="19634586" type="audio/mpeg"/>
+      <itunes:order>850</itunes:order>
     </item>
     <item>
       <title>The Sounds of Long Distance, pgm 16: 4A’s Revertive Pulsing, Short Long Distance NYC to NJ (1974-1979)</title>
       <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD16.mp3</guid>
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD16.mp3" length="46329221" type="audio/mpeg"/>
-      <itunes:order>95</itunes:order>
+      <itunes:order>851</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 15: 4M &amp; XBT Audible Dialpulsing, Calling France, Forced Reroutes (1974-1982)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD15.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD15.mp3" length="37279151" type="audio/mpeg"/>
+      <itunes:order>852</itunes:order>
+    </item>
+    <item>
+      <title>Intro program to the “Exploring the Life Insurance Tie-lines” series, Fall 1976</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LifeInsurTielines0.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LifeInsurTielines0.mp3" length="16127101" type="audio/mpeg"/>
+      <itunes:order>854</itunes:order>
+    </item>
+    <item>
+      <title>Bell System #1 Step in downtown Raleigh NC, part 3 (Sept., 1979)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/RalSxS3.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/RalSxS3.mp3" length="19708989" type="audio/mpeg"/>
+      <itunes:order>857</itunes:order>
+    </item>
+    <item>
+      <title>Exploring the Life Insurance Tie-lines, pgm 1 PARTIAL, Fall 1976 (ends abruptly)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LifeInsurTielines1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LifeInsurTielines1.mp3" length="24961220" type="audio/mpeg"/>
+      <itunes:order>858</itunes:order>
+    </item>
+    <item>
+      <title>Bell System #1 Step in downtown Raleigh NC, part 4 (Sept., 1979)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/RalSxS4.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/RalSxS4.mp3" length="20488065" type="audio/mpeg"/>
+      <itunes:order>861</itunes:order>
+    </item>
+    <item>
+      <title>Ring and Busy Tones in North America, a 1970s Narration, 1971-73</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/RingBusy01.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/RingBusy01.mp3" length="9868564" type="audio/mpeg"/>
+      <itunes:order>867</itunes:order>
+    </item>
+    <item>
+      <title>NEptune 4 #1 Crossbar in Belle Harbor, Queens: Local Routings, part 1 (May, 1974)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/RoutNE4p1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/RoutNE4p1.mp3" length="39421202" type="audio/mpeg"/>
+      <itunes:order>883</itunes:order>
+    </item>
+    <item>
+      <title>Group Bell’s Salute to Operators (1974/1978)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Salute_To_Operators.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Salute_To_Operators.mp3" length="10690708" type="audio/mpeg"/>
+      <itunes:order>887</itunes:order>
+    </item>
+    <item>
+      <title>Two Early Voice Recognition Systems (1972-74, 1980)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/VR.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/VR.mp3" length="23657022" type="audio/mpeg"/>
+      <itunes:order>892</itunes:order>
+    </item>
+    <item>
+      <title>Network Sounds of the 70’s, part 1 (1971-1981)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/NetSounds1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/NetSounds1.mp3" length="34105599" type="audio/mpeg"/>
+      <itunes:order>898</itunes:order>
+    </item>
+    <item>
+      <title>Network Sounds of the 70’s, part 2 (1976-1981)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/NetSounds2.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/NetSounds2.mp3" length="40812590" type="audio/mpeg"/>
+      <itunes:order>899</itunes:order>
+    </item>
+    <item>
+      <title>Bell System #1 Step in downtown Raleigh NC, part 1 (Sept., 1979)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/RalSxS1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/RalSxS1.mp3" length="18447170" type="audio/mpeg"/>
+      <itunes:order>904</itunes:order>
+    </item>
+    <item>
+      <title>What Did the Old Telephone Network Sound Like? Overview of the Recordings (rough draft)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Overview-rough.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Overview-rough.mp3" length="57503380" type="audio/mpeg"/>
+      <itunes:order>908</itunes:order>
+    </item>
+    <item>
+      <title>The “Voomph” Tape (Ben &amp; Evan’s satire) (1974)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Voomph.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Voomph.mp3" length="5592834" type="audio/mpeg"/>
+      <itunes:order>910</itunes:order>
+    </item>
+    <item>
+      <title>Please Hang Up – Permanent Signal Recordings (1971-1983)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/PSRecs.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/PSRecs.mp3" length="30399129" type="audio/mpeg"/>
+      <itunes:order>912</itunes:order>
+    </item>
+    <item>
+      <title>Phone Trips Song</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/PhoneTripsSong.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/PhoneTripsSong.mp3" length="5910081" type="audio/mpeg"/>
+      <itunes:order>919</itunes:order>
+    </item>
+    <item>
+      <title>So. California Phone Trips part 1: Van Nuys #5 Crossbar (Summer, 1974)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SoCal1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SoCal1.mp3" length="36955237" type="audio/mpeg"/>
+      <itunes:order>921</itunes:order>
+    </item>
+    <item>
+      <title>How I Became a Phone Phreak pgm. 11, December 1970</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/HowBPhreak11.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/HowBPhreak11.mp3" length="83761587" type="audio/mpeg"/>
+      <itunes:order>929</itunes:order>
+    </item>
+    <item>
+      <title>The Sounds of Long Distance, pgm. 4: An Assortments of Calls via Hempstead Tandem 3 (June 1976) (Standalone Edition)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/LD04standalone.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/LD04standalone.mp3" length="29593320" type="audio/mpeg"/>
+      <itunes:order>1121</itunes:order>
+    </item>
+    <item>
+      <title>So. California Phone Trips part 2: Misc. Van Nuys Phun Stuff (Summer, 1974)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SoCal2.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SoCal2.mp3" length="32693307" type="audio/mpeg"/>
+      <itunes:order>1123</itunes:order>
+    </item>
+    <item>
+      <title>So. California Phone Trips part 3: GTE Step in Indio (Summer, 1974)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SoCal3-Indio.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SoCal3-Indio.mp3" length="6757698" type="audio/mpeg"/>
+      <itunes:order>1125</itunes:order>
+    </item>
+    <item>
+      <title>Bell System #1 Step in downtown Raleigh NC, part 2 (Sept., 1979)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/RalSxS2.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/RalSxS2.mp3" length="19184450" type="audio/mpeg"/>
+      <itunes:order>1126</itunes:order>
+    </item>
+    <item>
+      <title>GEdney 9 Panel in Brooklyn NY, part 1 (November, 1977)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/GE9_1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/GE9_1.mp3" length="19028965" type="audio/mpeg"/>
+      <itunes:order>1233</itunes:order>
+    </item>
+    <item>
+      <title>Supplemental Sounds of Step, part 1 (1974,’77,’80)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SupplStep1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SupplStep1.mp3" length="23631124" type="audio/mpeg"/>
+      <itunes:order>1418</itunes:order>
+    </item>
+    <item>
+      <title>Supplemental Sounds of Step, part 2, Atlanta’s TRinity office (1979)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SupplStep2.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SupplStep2.mp3" length="29240554" type="audio/mpeg"/>
+      <itunes:order>1420</itunes:order>
+    </item>
+    <item>
+      <title>Supplemental Sounds of Step, part 3, Atlanta’s TRinity office (1979)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SupplStep3.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SupplStep3.mp3" length="35306814" type="audio/mpeg"/>
+      <itunes:order>1422</itunes:order>
+    </item>
+    <item>
+      <title>Conversation with Tom Duffy (1972)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/TJD72-04.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/TJD72-04.mp3" length="14828900" type="audio/mpeg"/>
+      <itunes:order>1424</itunes:order>
+    </item>
+    <item>
+      <title>What Was 4-5-0? Getting Into the Test Lines &amp; Mechanical Tones of the NY Area, 1971-77 (Part 1 of 3)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/WhatWas450p1of3.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/WhatWas450p1of3.mp3" length="20557044" type="audio/mpeg"/>
+      <itunes:order>1468</itunes:order>
+    </item>
+    <item>
+      <title>What Was 4-5-0? Getting Into the Test Lines &amp; Mechanical Tones of the NY Area, 1971-77 (Part 2 of 3)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/WhatWas450p2of3.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/WhatWas450p2of3.mp3" length="19778386" type="audio/mpeg"/>
+      <itunes:order>1470</itunes:order>
+    </item>
+    <item>
+      <title>What Was 4-5-0? Getting Into the Test Lines &amp; Mechanical Tones of the NY Area, 1971-77 (Part 3 of 3)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/WhatWas450p3of3.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/WhatWas450p3of3.mp3" length="19263043" type="audio/mpeg"/>
+      <itunes:order>1472</itunes:order>
+    </item>
+    <item>
+      <title>ZZZZZZ Part 1 (1971-1974)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Zp1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Zp1.mp3" length="20493490" type="audio/mpeg"/>
+      <itunes:order>1484</itunes:order>
+    </item>
+    <item>
+      <title>ZZZZZZ Part 2 (1971-1974)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Zp2.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Zp2.mp3" length="23194343" type="audio/mpeg"/>
+      <itunes:order>1486</itunes:order>
+    </item>
+    <item>
+      <title>ZZZZZZ Part 3 (1974-1976)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Zp3.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Zp3.mp3" length="8386049" type="audio/mpeg"/>
+      <itunes:order>1488</itunes:order>
+    </item>
+    <item>
+      <title>Classic Tandem Stacking (January, 1975)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/classtack1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/classtack1.mp3" length="25549139" type="audio/mpeg"/>
+      <itunes:order>1490</itunes:order>
+    </item>
+    <item>
+      <title>Telephone Sounds in Great Britain – Part 1(Narrated by Andrew Emerson) (Hum Removed) (Nov 1971)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/emmerson1-hm.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/emmerson1-hm.mp3" length="24699850" type="audio/mpeg"/>
+      <itunes:order>1492</itunes:order>
+    </item>
+    <item>
+      <title>Telephone Sounds in Great Britain – Part 2 (Narrated by Andrew Emerson) (hum removed &amp; EQ corrected) (Nov 1971)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/emmerson2-hm+eq.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/emmerson2-hm+eq.mp3" length="29109743" type="audio/mpeg"/>
+      <itunes:order>1496</itunes:order>
+    </item>
+    <item>
+      <title>NX-1 Crossbar in Greenville NC, part 1 (June, 1974)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/GreenvilleNC1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/GreenvilleNC1.mp3" length="23910327" type="audio/mpeg"/>
+      <itunes:order>1522</itunes:order>
     </item>
   </channel>
 </rss>
