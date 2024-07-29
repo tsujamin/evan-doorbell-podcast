@@ -37,13 +37,17 @@ class TelephoneTape():
         return self.json["poster"] or None
 
     @cached_property
+    def id(self) -> int:
+        return int(self.json["id"])
+
+    @cached_property
     def podcast_episode(self) -> Episode:
         ep = Episode()
 
         ep.title = self.title
         ep.media = self.podcast_media
         ep.image = self.image
-        ep.position = int(self.json["id"])
+        ep.position = self.id
 
         return ep
 
@@ -104,12 +108,12 @@ class TelephonePodcast():
         return [TelephonePlaylist(name, url) for name, url in self.__playlist_urls.items()]
 
     @cached_property
-    def podcast_episodes(self) -> list[Episode]:
-        eps = []
+    def podcast_episodes(self) -> list[TelephoneTape]:
+        tapes = []
         for playlist in self.playlists:
-            eps += [tape.podcast_episode for tape in playlist.tapes]
+            tapes += [tape for tape in playlist.tapes]
 
-        return eps
+        return [tape.podcast_episode for tape in sorted(tapes, key=lambda tape: tape.id)]
 
     @cached_property
     def podcast(self) -> Podcast:
@@ -125,7 +129,6 @@ class TelephonePodcast():
         for episode in self.podcast_episodes:
             podcast.add_episode(episode)
 
-        podcast.apply_episode_order()
         return podcast
 
 
