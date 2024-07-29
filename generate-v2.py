@@ -135,7 +135,7 @@ class TelephonePodcast():
 def generate_playlists():
     podcasts: list[TelephonePodcast] = [
         TelephonePodcast("Evan Doorbell's Phone Tapes (Group 1)", "https://evan-doorbell.com/group-1-playlist/", "podcast-group1.xml"),
-        TelephonePodcast("Evan Doorbell's Phone Tapes (Production Tapes)", "https://evan-doorbell.com/production-tapes/", "production-tapes.xml")
+        TelephonePodcast("Evan Doorbell's Phone Tapes (Production Tapes)", "https://evan-doorbell.com/production-tapes/", "podcast-production.xml")
     ]
 
     for podcast in podcasts:

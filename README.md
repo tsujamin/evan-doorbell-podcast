@@ -9,6 +9,6 @@ Wikipedia).
 The easiest way to subscribe is to copy the RSS feed link, [https://raw.githubusercontent.com/tsujamin/evan-doorbell-podcast/main/podcast-group1.xml](https://raw.githubusercontent.com/tsujamin/evan-doorbell-podcast/main/podcast-group1.xml), into your Podcasting app as a new
 show to follow.
 
-The more extensive collection of Production Tapes can be subscribed to using the link [https://raw.githubusercontent.com/tsujamin/evan-doorbell-podcast/main/podcast-group1.xml](https://raw.githubusercontent.com/tsujamin/evan-doorbell-podcast/main/podcast-production.xml)
+The more extensive collection of Production Tapes can be subscribed to using the link [https://raw.githubusercontent.com/tsujamin/evan-doorbell-podcast/main/podcast-production.xml](https://raw.githubusercontent.com/tsujamin/evan-doorbell-podcast/main/podcast-production.xml)
 
 Episodes should be listened to oldest to newest, which is the same order as the episode numbers in the titles.
