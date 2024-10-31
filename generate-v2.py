@@ -61,7 +61,7 @@ class TelephonePlaylist():
         resp = requests.get(self.url)
 
         if not resp.ok:
-            raise Exception(f"Non 2XX status code {resp.status_code} requesting {url}")
+            raise Exception(f"Non 2XX status code {resp.status_code} requesting {self.url}")
 
         return dict(resp.json())
 
@@ -81,7 +81,7 @@ class TelephonePodcast():
     def __playlist_urls(self) -> dict[str, str]:
         resp = requests.get(self.url)
         if not resp.ok:
-            raise Exception(f"Non 2XX status code {resp.status_code} requesting {url}")
+            raise Exception(f"Non 2XX status code {resp.status_code} requesting {self.url}")
 
         page = BeautifulSoup(resp.text, "html.parser")
 
@@ -135,7 +135,7 @@ class TelephonePodcast():
 def generate_playlists():
     podcasts: list[TelephonePodcast] = [
         TelephonePodcast("Evan Doorbell's Phone Tapes (Group 1)", "https://evan-doorbell.com/group-1-playlist/", "podcast-group1.xml"),
-        TelephonePodcast("Evan Doorbell's Phone Tapes (Production Tapes)", "https://evan-doorbell.com/production-tapes/", "podcast-production.xml")
+        TelephonePodcast("Evan Doorbell's Phone Tapes (Production Tapes)", "https://evan-doorbell.com/production/", "podcast-production.xml")
     ]
 
     for podcast in podcasts:
