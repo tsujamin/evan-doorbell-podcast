@@ -7,7 +7,7 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 18:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 23:38:37 +0000</lastBuildDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://github.com/tsujamin/evan-doorbell-podcast/blob/main/logo-3.png?raw=true&amp;dummy=.png"/>
     <item>
@@ -156,13 +156,6 @@
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/AIS-96tracks.mp3" length="27295794" type="audio/mpeg"/>
       <itunes:image href="https://evan-doorbell.com/wp-content/uploads/MiscAndMedia_500-300x300.jpg"/>
       <itunes:order>736</itunes:order>
-    </item>
-    <item>
-      <title>Step With Directors, A Closer C.O.: Elizabeth City NC Area part 5 (March, 1977)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/ECArea5.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/ECArea5.mp3" length="10250155" type="audio/mpeg"/>
-      <itunes:image href="https://evan-doorbell.com/wp-content/uploads/March1977Carolinas_500-300x300.jpg"/>
-      <itunes:order>737</itunes:order>
     </item>
     <item>
       <title>The Sounds of Long Distance, Introduction</title>
@@ -1829,13 +1822,6 @@
       <itunes:order>1476</itunes:order>
     </item>
     <item>
-      <title>Carolina Tel. part 6: Step with no E.A.S. in Windsor NC (March, 1977)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/WindsorNC.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/WindsorNC.mp3" length="19851935" type="audio/mpeg"/>
-      <itunes:image href="https://evan-doorbell.com/wp-content/uploads/March1977Carolinas_500-300x300.jpg"/>
-      <itunes:order>1478</itunes:order>
-    </item>
-    <item>
       <title>A non-perfect recording of the PERFECT World's First AIS in Hempstead NY, 1972 </title>
       <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/WorldsFirstAIS1972.mp3</guid>
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/WorldsFirstAIS1972.mp3" length="13128244" type="audio/mpeg"/>
@@ -2135,6 +2121,27 @@
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/Fire7.mp3" length="56261181" type="audio/mpeg"/>
       <itunes:image href="https://evan-doorbell.com/wp-content/uploads/NYC_Narrated_500-300x300.jpg"/>
       <itunes:order>1988</itunes:order>
+    </item>
+    <item>
+      <title>Step With Directors, A Closer C.O.: Elizabeth City NC Area part 5 (March, 1977)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/ECArea5.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/ECArea5.mp3" length="10765518" type="audio/mpeg"/>
+      <itunes:image href="https://evan-doorbell.com/wp-content/uploads/March1977Carolinas_500-300x300.jpg"/>
+      <itunes:order>2008</itunes:order>
+    </item>
+    <item>
+      <title>Carolina Tel. part 6: Step with no E.A.S. in Windsor NC (March, 1977)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/WindsorNC.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/WindsorNC.mp3" length="19224375" type="audio/mpeg"/>
+      <itunes:image href="https://evan-doorbell.com/wp-content/uploads/March1977Carolinas_500-300x300.jpg"/>
+      <itunes:order>2010</itunes:order>
+    </item>
+    <item>
+      <title>The Fire, pgm. 8: Replacing City &amp; Interzone tandems, November 1975</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Fire8.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Fire8.mp3" length="57939023" type="audio/mpeg"/>
+      <itunes:image href="https://evan-doorbell.com/wp-content/uploads/NYC_Narrated_500-300x300.jpg"/>
+      <itunes:order>2017</itunes:order>
     </item>
   </channel>
 </rss>
