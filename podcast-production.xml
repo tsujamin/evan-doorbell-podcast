@@ -7,7 +7,7 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 04 Jun 2025 20:49:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 12:34:40 +0000</lastBuildDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://github.com/tsujamin/evan-doorbell-podcast/blob/main/logo-3.png?raw=true&amp;dummy=.png"/>
     <item>
@@ -184,11 +184,6 @@
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/Al_B_7-14.mp3" length="14726084" type="audio/mpeg"/>
       <itunes:image href="https://evan-doorbell.com/wp-content/uploads/MiscAndMedia_500-300x300.jpg"/>
       <itunes:order>741</itunes:order>
-    </item>
-    <item>
-      <title>Alan's tape 7 including some UK Network Sounds &amp; AC-9 Phreaking (1975)</title>
-      <itunes:image href="https://evan-doorbell.com/wp-content/uploads/GreatBritain_500-300x300.jpg"/>
-      <itunes:order>742</itunes:order>
     </item>
     <item>
       <title>Early 80s Phreaking, Pgm 1: Janning-by-Apple, Analog Answering machines survey and more</title>
@@ -1689,13 +1684,6 @@
       <itunes:order>1416</itunes:order>
     </item>
     <item>
-      <title>Supplemental Sounds of Step, part 1 (1974,'77,'80)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SupplStep1.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SupplStep1.mp3" length="23631124" type="audio/mpeg"/>
-      <itunes:image href="https://evan-doorbell.com/wp-content/uploads/TheOTHERtrips_500-300x300.jpg"/>
-      <itunes:order>1418</itunes:order>
-    </item>
-    <item>
       <title>Supplemental Sounds of Step, part 2, Atlanta's TRinity office (1979)</title>
       <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SupplStep2.mp3</guid>
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/SupplStep2.mp3" length="29240554" type="audio/mpeg"/>
@@ -1969,13 +1957,6 @@
       <itunes:order>1797</itunes:order>
     </item>
     <item>
-      <title>Bronx pgm 2A: Grand Concourse Panel, direct trunks to interoffice panels (1976-77)</title>
-      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Bronx02A-GrandConcPAN.mp3</guid>
-      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Bronx02A-GrandConcPAN.mp3" length="27562453" type="audio/mpeg"/>
-      <itunes:image href="https://evan-doorbell.com/wp-content/uploads/NYC_Narrated_500-300x300.jpg"/>
-      <itunes:order>1798</itunes:order>
-    </item>
-    <item>
       <title>Shortwave clips from 1982, Tape 1 side A</title>
       <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SWL-82-tape-1A.mp3</guid>
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/SWL-82-tape-1A.mp3" length="45377788" type="audio/mpeg"/>
@@ -2156,6 +2137,41 @@
       <enclosure url="https://evan-doorbell.com/wp-content/uploads/GreenfieldMA.mp3" length="21175383" type="audio/mpeg"/>
       <itunes:image href="https://evan-doorbell.com/wp-content/uploads/TheOTHERtrips_500-300x300.jpg"/>
       <itunes:order>2044</itunes:order>
+    </item>
+    <item>
+      <title>Supplemental Sounds of Step, part 1 (1974,'77,'80)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/SupplStep1.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/SupplStep1.mp3" length="24001344" type="audio/mpeg"/>
+      <itunes:image href="https://evan-doorbell.com/wp-content/uploads/TheOTHERtrips_500-300x300.jpg"/>
+      <itunes:order>2048</itunes:order>
+    </item>
+    <item>
+      <title>Alan's tape 7 including some UK Network Sounds &amp; AC-9 Phreaking (1975)	</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Alan-Tape-07-rough.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Alan-Tape-07-rough.mp3" length="48664805" type="audio/mpeg"/>
+      <itunes:image href="https://evan-doorbell.com/wp-content/uploads/GreatBritain_500-300x300.jpg"/>
+      <itunes:order>2061</itunes:order>
+    </item>
+    <item>
+      <title>Bronx pgm 2A: Grand Concourse Panel, direct trunks to other panels &amp; #1 crossbar (1976-77)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Bronx02A1-GrandConcPAN.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Bronx02A1-GrandConcPAN.mp3" length="33285384" type="audio/mpeg"/>
+      <itunes:image href="https://evan-doorbell.com/wp-content/uploads/NYC_Narrated_500-300x300.jpg"/>
+      <itunes:order>2064</itunes:order>
+    </item>
+    <item>
+      <title>Bronx pgm 2A: Grand Concourse Panel, direct trunks to other panels &amp; #1 crossbar (1976-77) (ALTERNATE)</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/Bronx02A2-GrandConcPAN.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/Bronx02A2-GrandConcPAN.mp3" length="33372849" type="audio/mpeg"/>
+      <itunes:image href="https://evan-doorbell.com/wp-content/uploads/NYC_Narrated_500-300x300.jpg"/>
+      <itunes:order>2066</itunes:order>
+    </item>
+    <item>
+      <title>Researching ConTelNet CCSA, pgm. 4, July 1980 &amp; March 1981</title>
+      <guid isPermaLink="false">https://evan-doorbell.com/wp-content/uploads/ConTelNet4.mp3</guid>
+      <enclosure url="https://evan-doorbell.com/wp-content/uploads/ConTelNet4.mp3" length="57579565" type="audio/mpeg"/>
+      <itunes:image href="https://evan-doorbell.com/wp-content/uploads/PhreakingAndTehPhreaks_500-300x300.jpg"/>
+      <itunes:order>2070</itunes:order>
     </item>
   </channel>
 </rss>
